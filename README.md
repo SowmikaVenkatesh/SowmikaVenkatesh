@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SowmikaVenkatesh
 - 👀 I’m interested in everything below the sky and beyond as well.
-- 🌱 I’m currently learning JS, Python, AWS.
-- 💞️ I’m looking to collaborate on Python.
+- 🌱 Currenlty working on MEAN stack
+- 💞️ Microsoft certified
 
 
 <!---
