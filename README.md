@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @SowmikaVenkatesh
 - 👀 I’m interested in everything below the sky and beyond as well.
-- 🌱 Currenlty working on MEAN stack
-- 💞️ Microsoft certified
 
 
 <!---
